@@ -20,6 +20,8 @@ The power supply is an ATX computer supply. Sufficiently large installations sho
 
 As of 2015/08/17, the template is complete. Electronics are done and verified, example sketches exist for each piece of hardware, the structure for the project is defined and template documents exist to enable individual cells to be created. A sample cell has been created to verify everything.
 
+Still to do is designing each of the individual cells, building and assembling them, and raising the funds to produce more than a few cells. However, the template cell proves that it's all do-able. Designing the individual cells will take the longest; assembling won't be too bad.
+
 ## Cost
 
 A rough estimate of the cost of this project is as follows:
