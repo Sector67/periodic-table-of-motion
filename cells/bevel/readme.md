@@ -1,0 +1,4 @@
+- Cell Title: Bevel Gear
+- Description: A gear set that changes the axis of rotation. Usually 90 degree angles, but can be other angles. The spiral teeth allow for smoother engagement of each tooth.
+- Benefits: Translates spinning motion. With different numbers of teeth, they can have mechanical advantage and drive with more or less torque and speed.
+- Used in: Differential drives, like automobiles. The drive shaft connects to the back wheels of a rear wheel drive vehicle with bevel gears.
