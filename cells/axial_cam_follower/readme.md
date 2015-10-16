@@ -1,0 +1,4 @@
+- Cell Title: Axial Cam Follower
+- Description: A conversion from circular motion to linear motion. The spinning cam pushes the piston, which follows the profile of the surface.
+- Benefits: Creates linear motion in the axis of revolution, making a long but narrow mechanism.
+- Used in: Pumps. Pressure washers. The piston moves a fluid through a tube.
