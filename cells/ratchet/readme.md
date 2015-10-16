@@ -1,0 +1,4 @@
+- Cell Title: Ratchet
+- Description: A spring-loaded prawl follows a spinning gear with special teeth so that it can only spin in one direction. When spun the opposite direction, the prawl presses agains the steep tooth and prevents the gear from spinning further.
+- Benefits: Sometimes it is important to prevent something from going backwards, or to apply a force when spun direction but spin freely in the opposite direction (like a bike).
+- Used in: Bicycles, roller coasters, zip ties, handcuffs
