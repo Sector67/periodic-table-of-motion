@@ -1,0 +1,4 @@
+- Cell Title: Wedge
+- Description: One of the simple machines.  Separates two objects, or lifts an object.
+- Benefits: One of the earliest machines developed. Easy to make, it can apply a lot of force quickly. Wedges are most seen in knives, where the blade separates something into two parts. Wedges can also be used to hold an object in place by adding friction, like a doorstop.
+- Used in: Axes, blades, doors
