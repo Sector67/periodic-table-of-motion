@@ -1,0 +1,4 @@
+- Cell Title: Radial Cam Follower
+- Description: A conversion from circular motion to linear motion along an axis perpendicular to the spinning. The piston is pressed against the cam by a spring or gravity, and as the cam rotates it pushes the follower up or down in a straight line.
+- Benefits: Cams are used to do repetitive linear motion with a motor. The profile of the cam defines how fast (angle) or long (duration) or deep (lift) the linear motion is.
+- Used in: Cars - the timing of valves opening and closing is done with the camshaft; a series of multiple radial cam followers.
