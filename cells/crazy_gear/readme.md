@@ -1,0 +1,4 @@
+- Cell Title: Crazy Gear
+- Description: Gears do not have to be perfectly symmectrical. Special gears can be made with very different teeth.
+- Benefits: As long as the two gears mesh, they will work. The better they mesh, the smoother they will be. Certain kinds of teeth are better for more power transfer, others are good for speed or smoothness.
+- Used in: There aren't many practical applications of this gear set, but gears of all types exist with varying designs suited to unique purposes.
