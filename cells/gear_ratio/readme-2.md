@@ -1,0 +1,4 @@
+- Cell Title: Gear Ratio - Little to Big
+- Description: When the driving gear is smaller, for every time it spins one revolution the large gear spins a fraction of a turn.
+- Benefits: A fast but weak motor can drive very heavy loads with this type of gear because it trades speed for torque and very precise motion to a fraction of a degree. With the right ratios a motor spinning at a constant speed can spin one gear that does one revolution per minute, another that does one revolution per hour, and a third that does one revolution every 12 hours.
+- Used in: Clocks, vehicles.

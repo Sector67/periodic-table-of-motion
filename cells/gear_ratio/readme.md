@@ -1,0 +1,4 @@
+- Cell Title: Gear Ratio - Big to Little
+- Description: When gears are the same size, they turn at the same rate and transfer the same torque. When the driving gear is bigger, for every time it spins one revolution the small gear spins many times.
+- Benefits: If very fast spinning is needed, a slower motor can use this gear configuration to get a fast output. This comes at a cost of torque.
+- Used in: Bicycles - In higher gears you can go very fast, but it is difficult to go slow because you have no torque.
