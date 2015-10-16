@@ -1,0 +1,4 @@
+- Cell Title: Wheel and Axle
+- Description: One of the simple machines. Transfers rotational motion between two different sized features to gain leverage or speed.
+- Benefits: For every rotation, the wheel and axle spin the same number of degrees, but different distances. This difference is used to go fast, like on a car, or get leverage, like a door knob.
+- Used in: Cars, bicycles, almost anything that spins.
