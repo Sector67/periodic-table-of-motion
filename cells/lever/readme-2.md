@@ -1,0 +1,4 @@
+- Cell Title: Lever - Class 2
+- Description: One of the simple machines. Levers have three parts: fulcrum (pivot point), effort (where the force is applied), and resistance (where the weight is). The class 2 lever has the resistance in the middle, the fulcrum at one end, and by lifting on the other end the resistance is lifted.
+- Benefits: The greater the ratio of the length, the more mechanical advantage. With a long effort arm, a huge weight can be lifted. This comes at a cost of distance. The effort arm must be pushed further to move the resistance just a little.
+- Used in: Wheelbarrow, nutcracker, bottle opener.

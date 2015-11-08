@@ -1,0 +1,4 @@
+- Cell Title: Lever - Class 3
+- Description: One of the simple machines. Levers have three parts: fulcrum (pivot point), effort (where the force is applied), and resistance (where the weight is). The class 3 lever has the resistance at one end, the fulcrum at the other end, and by pushing up in the middle, the resistance is lifted.
+- Benefits: This is the opposite of the Class 2 lever because the mechanical advantage is always less than 1. This means a lot of effort is applied to raise the resistance, but the resistance moves up more distance. This is good when you need to translate power into speed.
+- Used in: Tweezers, broom, hockey stick.
