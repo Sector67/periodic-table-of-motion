@@ -1,0 +1,4 @@
+- Cell Title: Inclined Plane
+- Description: One of the simple machines. Used to raise or lower a load. The ease of lifting or lowering an object is increased the longer the ramp is.
+- Benefits: The same amount of work is done, but a lower force is applied over a greater distance.
+- Used in: Highways, wheelchair access, slides. Two other simple machines can be derived from it; the wedge, and the screw.

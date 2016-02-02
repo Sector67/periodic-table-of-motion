@@ -1,0 +1,4 @@
+- Cell Title: Pulley
+- Description: One of the simple machines. A free wheel translates force on a rope from one direction to another.
+- Benefits: The pulley allows a force to be applied in a more convenient way, like lifting an object while staying stationary. When combined with a motor, the motor can spin a drum to collect the rope while it lifts or pulls the object.
+- Used in: Elevators, cranes, and even window blinds benefit from pulleys.

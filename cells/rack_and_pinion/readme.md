@@ -1,0 +1,4 @@
+- Cell Title: Rack and Pinion
+- Description: A conversion from circular motion to linear motion. The spinning pinion pushes the linear gear, called a rack.
+- Benefits: Very strong and accurate conversion. No slipping, but can be run backwards.
+- Used in: Steering mechanisms, actuators.
